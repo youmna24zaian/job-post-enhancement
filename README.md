@@ -4,6 +4,24 @@ An AI-assisted API for improving job descriptions and generating structured job-
 
 > Portfolio showcase: this module is part of the Qaddemly AI Recruitment Platform. It helps organize and refine job-post content; it does not guarantee search ranking, candidate volume, or hiring outcomes.
 
+## Visual Overview
+
+### GitHub Social Preview
+
+![Job post enhancement GitHub social preview](images/github-social-preview.png)
+
+### Job Post Enhancement Workflow
+
+This diagram illustrates the workflow for refining a job description and generating relevant skills and keywords from a role brief.
+
+![Job post enhancement workflow](images/job-post-enhancement-workflow.png)
+
+### Portfolio Preview
+
+The following visual is a conceptual portfolio showcase of the job-post enhancement use case.
+
+![Job post enhancement portfolio preview](images/job-post-enhancement-portfolio.png)
+
 ## Features
 
 - Rewrite an existing job description while preserving the supplied job title.
